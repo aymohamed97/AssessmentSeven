@@ -1,0 +1,4 @@
+
+            tiny       small       medium       large       extraLarge
+insert(un)  75.1 μs    51.8 μs     165.3 μs     8.6339 ms   972.5389 ms
+append(push) 100.3 μs   116.7 μs    164.9 μs     767.4 μs     4.9703 ms
